@@ -11,5 +11,7 @@ public class Vijjesh {
 		this.name = name;
 	}
 	
-	
+	public void m2(){
+		System.out.println("m2()");
+	}
 }
