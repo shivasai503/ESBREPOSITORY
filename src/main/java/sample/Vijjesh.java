@@ -10,6 +10,8 @@ public class Vijjesh {
 	public void setName(String name) {
 		this.name = name;
 	}
-	
+	public void m1(){
+		System.out.println("m1()");
+	}
 	
 }
